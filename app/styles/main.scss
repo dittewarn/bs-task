@@ -5,5 +5,12 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 // endbower
 
 // oma scss alkaa
-
+.container {
+    width: 100%;
+    position: relative;
+    
+    .row {
+        text-align: center;
+    }
+}
 // oma scss päättyy
